@@ -1,5 +1,5 @@
 <ul class="breadcrumb">
-    <li class="active">Usuários</li>
+    <li class="active">Usuários8</li>
 </ul>
 
 <div class="container-fluid">
@@ -25,9 +25,9 @@
                 <h3><?php echo __('Usuários'); ?></h3>
                 <table class="table table-striped">
                     <thead>
-                        <tr>
+                        <tr>                               
                             <th style="width: 26px;">Avatar8</th>
-                            <th>Nome</th>                                
+                            <th>Nome Usuario</th>                                 
                             <th>E-mail</th>
                             <th>Status</th>
                             <th>Criado</th>
