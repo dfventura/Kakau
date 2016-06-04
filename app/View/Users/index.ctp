@@ -26,7 +26,7 @@
                 <table class="table table-striped">
                     <thead>
                         <tr>
-                            <th style="width: 26px;">Avatar</th>
+                            <th style="width: 26px;">Avatar8</th>
                             <th>Nome</th>                                
                             <th>E-mail</th>
                             <th>Status</th>
