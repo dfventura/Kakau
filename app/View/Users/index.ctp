@@ -1,5 +1,5 @@
 <ul class="breadcrumb">
-    <li class="active">Usuários</li>
+    <li class="active">Usuários8</li>
 </ul>
 
 <div class="container-fluid">
@@ -27,7 +27,7 @@
                     <thead>
                         <tr>
                             <th style="width: 26px;">Avatar</th>
-                            <th>Nome</th>                                
+                            <th>Nome Usuario</th>                                
                             <th>E-mail</th>
                             <th>Status</th>
                             <th>Criado</th>
